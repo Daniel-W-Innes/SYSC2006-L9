@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab_9/circular_intqueue.c
+stdlib.h
+-
+assert.h
+-
+stdbool.h
+-
+stdio.h
+-
+circular_intqueue.h
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab_9/circular_intqueue.h
+
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab_9/circular_intqueue.h
+
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab_9/main.c
+assert.h
+-
+stdlib.h
+-
+stdbool.h
+-
+stdio.h
+-
+circular_intqueue.h
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab_9/circular_intqueue.h
+
